@@ -183,5 +183,10 @@
     "wrong": "これはおいしいだ。",
     "correct": "これはおいしい。",
     "explanation": "い-adjectives do not take だ in plain present. (Pattern set 5)"
+  },
+  {
+    "wrong": "図書館に本を借りました。",
+    "correct": "図書館で本を借りました。",
+    "explanation": "で marks location of action. (Pattern set 2)"
   }
 ]
